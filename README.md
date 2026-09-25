@@ -1,1 +1,1 @@
-# Prediccion_Solar_IA_con_XM_2026
+# Prediccion Solar IA con XM 2026
